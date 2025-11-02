@@ -1,0 +1,12 @@
+.{
+    .name = .zigLocks,
+    .version = "0.0.1",
+    .fingerprint = 0xa8bfd16baa1aca4c,
+    .minimum_zig_version = "0.15.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
