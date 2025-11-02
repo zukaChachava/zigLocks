@@ -116,5 +116,6 @@ zig-out/
 build/
 build-*/
 docgen_tmp/
+.zig-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/zig,visualstudiocode,jetbrains+all
