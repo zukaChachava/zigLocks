@@ -1,4 +1,6 @@
-# zigLocks
+Deprecated !!!
+
+## zigLocks
 
 ⚠️ **This package is still under development and may have breaking changes.**
 
